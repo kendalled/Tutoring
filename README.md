@@ -1,2 +1,1 @@
-# Tutoring
-Code written by me for educational / tutorial purposes.
+Repo for tutorial / educational code written by me, Kendall Jackson, for students.
