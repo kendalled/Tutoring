@@ -1,4 +1,4 @@
-# The code that got me my first CS Job (Salaried at least)
+# Traffic light abstraction in Python3
 # Kendall Jackson, Winter Park FL, 12/04/2018
 def traffic_light(color):
     x = color
